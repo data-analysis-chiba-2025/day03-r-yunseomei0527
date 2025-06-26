@@ -91,4 +91,4 @@ letters
 #
 # HINT: Use `seq()` inside the square brackets
 
-answer_7 <- letters[seq(from = 1, to = 26)]
+answer_7 <- letters[seq(from = 1, to = 26, by = 2)]
